@@ -19,8 +19,12 @@ Across industries such as healthcare, finance, energy, transportation, and publi
 
 The projects in this portfolio demonstrate how data can be transformed into practical solutions through business intelligence, statistical analysis, machine learning, data visualization, and geospatial analytics. Each project is designed with a focus on solving real-world business challenges and delivering actionable recommendations.
 
+# 🔄 End-to-End Analytics Workflow
+
+Every project in this portfolio follows a structured, business-focused analytics methodology that transforms raw data into actionable business insights and strategic recommendations.
+
 <p align="center">
-  <img src="analytics_workflow.png" alt="End-to-End Analytics Workflow" width="900">
+  <img src="images/analytics_workflow.png" alt="End-to-End Analytics Workflow" width="900">
 </p>
 <!--
 **OluwatoyinKalli/OluwatoyinKalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
