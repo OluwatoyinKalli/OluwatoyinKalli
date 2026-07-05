@@ -1,5 +1,7 @@
 
-![GitHub Banner](images/github-banner.png)
+<p align="center">
+  <img src="images/github-banner.png" alt="GitHub Banner" width="100%">
+</p>
 
 
 # About Me
