@@ -9,13 +9,23 @@ I specialize in transforming complex data into actionable insights that improve 
 
 This portfolio highlights end-to-end analytics projects across healthcare, finance, business operations, and geospatial analytics, demonstrating practical applications of data analytics from data preparation and modeling to visualization, business insights, and strategic recommendations.
 
-# Why Analytics Matters
+# What I Do
 
-Every organization generates data, but data alone does not create value. The true value of analytics lies in transforming raw information into meaningful insights that support informed decision-making, improve operational efficiency, and drive measurable business outcomes.
+- Business and Data Analytics
+- Business Intelligence and Dashboard Development
+- Predictive Analytics and Machine Learning
+- AI-Enabled Analytics
+- Agentic AI Workflow Development
+- Business Process Automation
+- Geospatial and Climate Risk Analytics
+- Operational and Performance Reporting
+- Project Planning and Analytics Delivery
 
-Across industries such as healthcare, finance, energy, transportation, and public services, analytics enables organizations to identify trends, optimize processes, forecast future performance, manage risk, and uncover opportunities for innovation. From executive dashboards and financial reporting to predictive modeling and geospatial analysis, analytical solutions help leaders make confident, evidence-based decisions.
+# Why Analytics, AI & Automation Matter
 
-The projects in this portfolio demonstrate how data can be transformed into practical solutions through business intelligence, statistical analysis, machine learning, data visualization, and geospatial analytics. Each project is designed with a focus on solving real-world business challenges and delivering actionable recommendations.
+Organizations generate large amounts of data, but data only becomes valuable when it supports better decisions, measurable improvements and meaningful action.
+
+I use analytics to uncover patterns, monitor performance and communicate insights. I use AI and automation to reduce repetitive work, improve workflows and create scalable solutions that help organizations operate more effectively.
 
 # 🔄 End-to-End Analytics Workflow
 
