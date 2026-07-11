@@ -9,6 +9,16 @@ I specialize in transforming complex data into actionable insights that improve 
 
 This portfolio highlights end-to-end analytics projects across healthcare, finance, business operations, and geospatial analytics, demonstrating practical applications of data analytics from data preparation and modeling to visualization, business insights, and strategic recommendations.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/toyinib/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/OluwatoyinKAlli">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 # What I Do
 
 - Business and Data Analytics
@@ -162,7 +172,10 @@ AI-Enabled Analytics Project Delivery Framework
 - 🔄 **Certified ScrumMaster (CSM)** — Scrum Alliance *(2025)*
 - 📋 **ICAgile Certified Professional (ICP)** — ICAgile *(2022)*
 
-# 📊 GitHub Statistics
+---
+Thank you for visiting my GitHub profile. Feel free to explore my repositories to see how I apply analytics, AI, and business strategy to solve real-world problems.
+
+#  GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=OluwatoyinKAlli&show_icons=true&theme=default&hide_border=true" />
