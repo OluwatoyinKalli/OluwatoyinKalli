@@ -45,9 +45,24 @@ My approach follows an end-to-end lifecycle that integrates business strategy, d
   <img src="images/analytics_ai_lifecycle.png" alt="Analytics & AI Automation Lifecycle" width="90%">
 </p>
 
+# Featured Projects
 
+1. Financial & Operational Performance Dashboard
 
+## Overview
+Interactive Power BI dashboard for executive reporting, financial performance analysis, profitability tracking, and operational insights.
 
+## Skills Demonstrated
+KPI Development
+Financial Analytics
+Dashboard Design
+Data Visualization
+Business Intelligence
+
+## Tools
+Power BI • DAX • Excel
+
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/OluwatoyinKAlli/Financial-Analytics-Dashboard)
 
 
 
