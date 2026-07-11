@@ -91,7 +91,8 @@ An end-to-end predictive analytics project that applies machine learning to iden
 **Tools:**
 R • Tidymodels • Quarto • ggplot2 • Machine Learning
 
-🔗 **Repository:** https://github.com/OluwatoyinKAlli/Predictive-Banking-Analytics
+🔗 **Repository:** [Predictive Customer Analytics for Banking Campaigns]https://github.com/OluwatoyinKAlli/Predictive-Banking-Analytics
+
 
 ---
 --
