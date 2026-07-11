@@ -45,17 +45,58 @@ My approach follows an end-to-end lifecycle that integrates business strategy, d
   <img src="images/analytics_ai_lifecycle.png" alt="Analytics & AI Automation Lifecycle" width="90%">
 </p>
 
-##  Featured Projects
+#  Featured Projects
 
+## 📊 Business Intelligence
+
+Financial Dashboard
 ### 📊 Financial & Operational Performance Dashboard
 
 Interactive Power BI dashboard for executive reporting, financial performance analysis, profitability tracking, and operational insights.
 
-**Skills:** KPI Development • Financial Analytics • Data Visualization
+Skills Demonstrated
 
-**Tools:** Power BI • DAX • Excel
+✔ KPI Development
+
+✔ Financial Analytics
+
+✔ Dashboard Design
+
+✔ Business Intelligence
+
+Tools
+
+Power BI • DAX • Excel
+🔗 **Repository:** [Financial & Operational Performance Dashboard](https://github.com/OluwatoyinKAlli/Financial-Operational-Performance-Dashboard)
 
 [Financial & Operational Performance Dashboard](https://github.com/OluwatoyinKAlli/Financial-Operational-Performance-Dashboard)
+
+
+DataCo Dashboard
+
+--
+
+## 🤖 Predictive Analytics & AI
+
+Customer Churn
+
+Predictive Banking
+
+--
+
+## 🌍 Geospatial Analytics
+
+Climate Risk Assessment
+
+---
+
+## 🚀 AI & Project Delivery
+
+AI-Enabled Analytics Project Delivery Framework
+
+
+
+
 
 
 
