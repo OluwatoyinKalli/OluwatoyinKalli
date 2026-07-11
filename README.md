@@ -56,11 +56,8 @@ Interactive Power BI dashboard for executive reporting, financial performance an
 ####   Skills Demonstrated
 
 - KPI Development
-
 - Financial Analytics
-
 - Dashboard Design
-
 - Business Intelligence
 
 ####   Tools
@@ -78,8 +75,25 @@ DataCo Dashboard
 
 Customer Churn
 
-Predictive Banking
 
+#### Predictive Customer Analytics for Banking Campaigns
+
+An end-to-end predictive analytics project that applies machine learning to identify customers most likely to subscribe to term deposits. The project includes data preparation, exploratory analysis, feature engineering, model development, evaluation, and actionable business recommendations.
+
+####  Skills Demonstrated
+- Predictive Analytics
+- Machine Learning
+- Classification Modeling
+- Feature Engineering
+- Model Evaluation
+- Business Recommendations
+
+**Tools**
+R • Tidymodels • Quarto • ggplot2 • Machine Learning
+
+🔗 **Repository:** https://github.com/OluwatoyinKAlli/Predictive-Banking-Analytics
+
+---
 --
 
 ## 🌍 Geospatial Analytics
