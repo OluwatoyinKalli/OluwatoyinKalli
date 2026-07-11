@@ -60,7 +60,7 @@ Interactive Power BI dashboard for executive reporting, financial performance an
 - Dashboard Design
 - Business Intelligence
 
-####   Tools
+**Tools:**
 Power BI • DAX • Excel
 
 🔗 **Repository:** [Financial & Operational Performance Dashboard](https://github.com/OluwatoyinKAlli/Financial-Operational-Performance-Dashboard)
@@ -88,7 +88,7 @@ An end-to-end predictive analytics project that applies machine learning to iden
 - Model Evaluation
 - Business Recommendations
 
-**Tools**
+**Tools:**
 R • Tidymodels • Quarto • ggplot2 • Machine Learning
 
 🔗 **Repository:** https://github.com/OluwatoyinKAlli/Predictive-Banking-Analytics
