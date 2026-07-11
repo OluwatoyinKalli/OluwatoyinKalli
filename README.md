@@ -49,27 +49,25 @@ My approach follows an end-to-end lifecycle that integrates business strategy, d
 
 ## 📊 Business Intelligence
 
-Financial Dashboard
-### 📊 Financial & Operational Performance Dashboard
+####   Financial & Operational Performance Dashboard
 
 Interactive Power BI dashboard for executive reporting, financial performance analysis, profitability tracking, and operational insights.
 
 Skills Demonstrated
 
-✔ KPI Development
+- KPI Development
 
-✔ Financial Analytics
+- Financial Analytics
 
-✔ Dashboard Design
+- Dashboard Design
 
-✔ Business Intelligence
+- Business Intelligence
 
 Tools
-
 Power BI • DAX • Excel
+
 🔗 **Repository:** [Financial & Operational Performance Dashboard](https://github.com/OluwatoyinKAlli/Financial-Operational-Performance-Dashboard)
 
-[Financial & Operational Performance Dashboard](https://github.com/OluwatoyinKAlli/Financial-Operational-Performance-Dashboard)
 
 
 DataCo Dashboard
