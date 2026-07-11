@@ -53,7 +53,7 @@ My approach follows an end-to-end lifecycle that integrates business strategy, d
 
 Interactive Power BI dashboard for executive reporting, financial performance analysis, profitability tracking, and operational insights.
 
-Skills Demonstrated
+####   Skills Demonstrated
 
 - KPI Development
 
@@ -63,7 +63,7 @@ Skills Demonstrated
 
 - Business Intelligence
 
-Tools
+####   Tools
 Power BI • DAX • Excel
 
 🔗 **Repository:** [Financial & Operational Performance Dashboard](https://github.com/OluwatoyinKAlli/Financial-Operational-Performance-Dashboard)
