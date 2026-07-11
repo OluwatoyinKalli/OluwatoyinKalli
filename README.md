@@ -55,7 +55,7 @@ Interactive Power BI dashboard for executive reporting, financial performance an
 
 **Tools:** Power BI • DAX • Excel
 
-[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/OluwatoyinKAlli/Financial-Analytics-Dashboard)
+## 📊 [Financial & Operational Performance Dashboard](https://github.com/OluwatoyinKAlli/Financial-Operational-Performance-Dashboard)
 
 
 
