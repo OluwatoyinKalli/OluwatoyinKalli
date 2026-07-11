@@ -38,22 +38,26 @@ I combine technical modeling skills; regression, classification, and model compa
 
 # Analytics & AI Automation Lifecycle
 
-My approach follows an end-to-end lifecycle that integrates business strategy, data analytics, artificial intelligence, and automation to transform data into actionable insights, intelligent solutions, and measurable business outcomes.
+My approach follows an end-to-end lifecycle that integrates business strategy, data analytics, artificial intelligence, and automation to transform data into actionable insights, intelligent solutions, and measurable business outcomes. This lifecycle represents my end-to-end approach to solving business problems. Every project begins by understanding the business objective, followed by data preparation and analysis, applying machine learning and AI where appropriate, communicating insights through business intelligence, and delivering actionable recommendations that support informed decision-making and continuous improvement.
 
-## Analytics & AI Automation Lifecycle
 
 <p align="center">
   <img src="images/analytics_ai_lifecycle.png" alt="Analytics & AI Automation Lifecycle" width="90%">
 </p>
 
-This lifecycle represents my end-to-end approach to solving business problems. Every project begins by understanding the business objective, followed by data preparation and analysis, applying machine learning and AI where appropriate, communicating insights through business intelligence, and delivering actionable recommendations that support informed decision-making and continuous improvement.
+
+
+
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
