@@ -47,7 +47,7 @@ My approach follows an end-to-end lifecycle that integrates business strategy, d
 
 ##  Featured Projects
 
-### Financial & Operational Performance Dashboard
+### 📊 Financial & Operational Performance Dashboard
 
 Interactive Power BI dashboard for executive reporting, financial performance analysis, profitability tracking, and operational insights.
 
@@ -55,7 +55,7 @@ Interactive Power BI dashboard for executive reporting, financial performance an
 
 **Tools:** Power BI • DAX • Excel
 
-## 📊 [Financial & Operational Performance Dashboard](https://github.com/OluwatoyinKAlli/Financial-Operational-Performance-Dashboard)
+[Financial & Operational Performance Dashboard](https://github.com/OluwatoyinKAlli/Financial-Operational-Performance-Dashboard)
 
 
 
