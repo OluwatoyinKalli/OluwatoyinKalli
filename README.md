@@ -154,9 +154,24 @@ AI-Enabled Analytics Project Delivery Framework
 - MySQL
 - SQLite
 
+# Certifications
 
+### Professional Certifications
 
+- ☁️ **AWS Cloud Foundations** — AWS Academy *(2025)*
+- 🔄 **Certified ScrumMaster (CSM)** — Scrum Alliance *(2025)*
+- 📋 **ICAgile Certified Professional (ICP)** — ICAgile *(2022)*
 
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OluwatoyinKAlli&show_icons=true&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OluwatoyinKAlli&layout=compact&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OluwatoyinKAlli&theme=default&hide_border=true" />
+</p>
 
 
 
