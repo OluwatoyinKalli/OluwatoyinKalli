@@ -108,7 +108,51 @@ Climate Risk Assessment
 AI-Enabled Analytics Project Delivery Framework
 
 
+#  Technical Skills
 
+### 📊 Analytics & Programming
+- Python
+- R
+- SQL
+- DAX
+- Excel
+
+### 📈 Business Intelligence
+- Power BI
+- Tableau
+- Plotly
+- Streamlit
+- Zebra BI
+
+### 🤖 AI & Machine Learning
+- ChatGPT
+- Claude
+- Hugging Face
+- LangChain
+- CrewAI
+- Scikit-learn
+- Tidymodels
+
+### ⚡ Automation
+- Zapier
+- Make
+- n8n
+
+### 🌍 Geospatial Analytics
+- QGIS
+- ArcGIS
+- GeoPandas
+
+### 📋 Project Management
+- GitHub
+- ClickUp
+- Jira
+- Monday.com
+
+### 💾 Databases
+- PostgreSQL
+- MySQL
+- SQLite
 
 
 
