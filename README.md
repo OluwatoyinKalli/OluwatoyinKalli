@@ -1,13 +1,16 @@
 
 <img src="images/github-banner.png" alt="GitHub Banner" width="100%">
 
-# About Me
+#  About Me
 
-Hello, I'm **Oluwatoyin K. Alli**, an MBA-trained Business Operations & Data Analyst with an M.S. in Business Analytics and a multidisciplinary background spanning business operations, financial analytics, healthcare operations, and geospatial analytics.
+I'm a data & analytics professional who likes turning messy, real-world datasets into decisions people can actually act on.
 
-I specialize in transforming complex data into actionable insights that improve operational performance, support strategic decision-making, and solve real-world business challenges. My work combines business intelligence, predictive analytics, dashboard development, financial analysis, and process improvement to help organizations make informed decisions.
+My background is unusually cross-disciplinary — I started in geoscience, interpreting subsurface data for exploration decisions, before moving into business analytics, financial reporting, and BI. That mix shows up in how I work: I care as much about *whether the data is trustworthy* as I do about the model or dashboard sitting on top of it.
 
-This portfolio highlights end-to-end analytics projects across healthcare, finance, business operations, and geospatial analytics, demonstrating practical applications of data analytics from data preparation and modeling to visualization, business insights, and strategic recommendations.
+- 🏦 I build end-to-end predictive analytics pipelines — like a customer churn platform on Databricks (Bronze/Silver/Gold architecture, PySpark, MLflow) with a LangChain-powered insights assistant
+- 📊 I design BI dashboards that people actually use — Power BI, DAX, Power Query, built for stakeholders who don't want to touch a query
+- 🧮 I build statistical & ML models — regression and classification work in R and Python, from GAMs to tuned Random Forest / Gradient Boosted Trees
+- 💼 Currently: Business Operations Analyst, building KPI dashboards and predictive models for scheduling and retention
 
 <p align="left">
   <a href="https://www.linkedin.com/in/toyinib/">
