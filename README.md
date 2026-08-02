@@ -3,7 +3,7 @@
 
 #  About Me
 
-Hi, my name is Oluwatoyin Khadijat Alli — you can call me Toyin.
+Hi, my name is Oluwatoyin Khadijat Alli, you can call me Toyin.
 
 I currently work at Heart of Gold Homecare as a Business Operations Analyst, where I build KPI dashboards and predictive models in Power BI, SQL, and Databricks that have improved staffing efficiency by 30%, cut reporting turnaround by 70%, and driven 20% retention gains and 15% client acquisition growth.
 
@@ -20,6 +20,19 @@ My background is unusually cross-disciplinary, I started in geoscience, interpre
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+
+#  Fun Facts
+
+- 🌍 I began my career in geoscience before transitioning into business analytics and AI.
+- 📊 I enjoy turning complex datasets into clear, actionable insights.
+- 🧠 I am fascinated by the intersection of analytics, automation, and business strategy.
+- 🗺️ I have experience with both business intelligence tools and geographic information systems (GIS).
+- ☕ I can happily spend hours building dashboards and exploring data.
+- 🏊 I enjoy swimming and taking long walks.
+- 📚 I believe that continuous learning is one of the best investments anyone can make.
+
+
 
 #  Core Technologies 
 
