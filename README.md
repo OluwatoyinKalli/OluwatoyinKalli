@@ -3,14 +3,13 @@
 
 #  About Me
 
-I'm a data & analytics professional who likes turning messy, real-world datasets into decisions people can actually act on.
+Hi, my name is Oluwatoyin Khadijat Alli — you can call me Toyin.
 
-My background is unusually cross-disciplinary — I started in geoscience, interpreting subsurface data for exploration decisions, before moving into business analytics, financial reporting, and BI. That mix shows up in how I work: I care as much about *whether the data is trustworthy* as I do about the model or dashboard sitting on top of it.
+I currently work at Heart of Gold Homecare as a Business Operations Analyst, where I build KPI dashboards and predictive models in Power BI, SQL, and Databricks that have improved staffing efficiency by 30%, cut reporting turnaround by 70%, and driven 20% retention gains and 15% client acquisition growth.
 
-- 🏦 I build end-to-end predictive analytics pipelines — like a customer churn platform on Databricks (Bronze/Silver/Gold architecture, PySpark, MLflow) with a LangChain-powered insights assistant
-- 📊 I design BI dashboards that people actually use — Power BI, DAX, Power Query, built for stakeholders who don't want to touch a query
-- 🧮 I build statistical & ML models — regression and classification work in R and Python, from GAMs to tuned Random Forest / Gradient Boosted Trees
-- 💼 Currently: Business Operations Analyst, building KPI dashboards and predictive models for scheduling and retention
+I am passionate about turning real-world, messy datasets into decisions people can act on.
+
+My background is unusually cross-disciplinary, I started in geoscience, interpreting subsurface data for exploration decisions, before moving into business analytics, financial reporting, and BI. That mix shows up in how I work. I care as much about whether the data is trustworthy as I do about the model or dashboard sitting on top of it.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/toyinib/">
@@ -28,7 +27,6 @@ My background is unusually cross-disciplinary — I started in geoscience, inter
 - Business Intelligence and Dashboard Development
 - Predictive Analytics and Machine Learning
 - AI-Enabled Analytics
-- Agentic AI Workflow Development
 - Business Process Automation
 - Geospatial and Climate Risk Analytics
 - Operational and Performance Reporting
