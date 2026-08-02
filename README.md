@@ -177,15 +177,3 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories t
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=OluwatoyinKAlli&theme=default&hide_border=true" />
 </p>
-
-
-
-
-Here are some ideas to get you started:
-
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
