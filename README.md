@@ -23,6 +23,7 @@ My background is unusually cross-disciplinary, I started in geoscience, interpre
 
 #  Core Technologies 
 
+
 ### Analytics & Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,6 +32,7 @@ My background is unusually cross-disciplinary, I started in geoscience, interpre
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 ### Cloud & Data Engineering
 
@@ -41,12 +43,14 @@ My background is unusually cross-disciplinary, I started in geoscience, interpre
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
+
 ### Artificial Intelligence & Automation
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+
 
 ### Project Management & Collaboration
 
@@ -60,6 +64,7 @@ My background is unusually cross-disciplinary, I started in geoscience, interpre
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
+
 ### Business & Productivity Tools
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
@@ -68,6 +73,7 @@ My background is unusually cross-disciplinary, I started in geoscience, interpre
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+
 
 ### GIS & Visualization
 
@@ -177,52 +183,6 @@ Climate Risk Assessment
 
 AI-Enabled Analytics Project Delivery Framework
 
-
-#  Technical Skills
-
-### 📊 Analytics & Programming
-- Python
-- R
-- SQL
-- DAX
-- Excel
-
-### 📈 Business Intelligence
-- Power BI
-- Tableau
-- Plotly
-- Streamlit
-- Zebra BI
-
-### 🤖 AI & Machine Learning
-- ChatGPT
-- Claude
-- Hugging Face
-- LangChain
-- CrewAI
-- Scikit-learn
-- Tidymodels
-
-### ⚡ Automation
-- Zapier
-- Make
-- n8n
-
-### 🌍 Geospatial Analytics
-- QGIS
-- ArcGIS
-- GeoPandas
-
-### 📋 Project Management
-- GitHub
-- ClickUp
-- Jira
-- Monday.com
-
-### 💾 Databases
-- PostgreSQL
-- MySQL
-- SQLite
 
 # Certifications
 
