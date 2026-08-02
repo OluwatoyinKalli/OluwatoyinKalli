@@ -34,6 +34,7 @@ My background is unusually cross-disciplinary, I started in geoscience, interpre
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
+
 ### Cloud & Data Engineering
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -44,12 +45,14 @@ My background is unusually cross-disciplinary, I started in geoscience, interpre
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 
+
 ### Artificial Intelligence & Automation
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+
 
 
 ### Project Management & Collaboration
@@ -73,6 +76,7 @@ My background is unusually cross-disciplinary, I started in geoscience, interpre
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
+
 
 
 ### GIS & Visualization
