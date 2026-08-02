@@ -126,18 +126,7 @@ My approach follows an end-to-end lifecycle that integrates business strategy, d
 
 #  Featured Projects
 
-## 📊 Business Intelligence
-
-####   Financial & Operational Performance Dashboard
-
-Interactive Power BI dashboard for executive reporting, financial performance analysis, profitability tracking, and operational insights.
-
-####   Skills Demonstrated
-
-- KPI Development
-- Financial Analytics
-- Dashboard Design
-- Business Intelligence
+####   1. Financial & Operational Performance Dashboard
 
 **Tools:**
 Power BI • DAX • Excel
@@ -146,45 +135,12 @@ Power BI • DAX • Excel
 
 
 
-DataCo Dashboard
-
---
-
-## 🤖 Predictive Analytics & AI
-
-Customer Churn
-
-
-#### Predictive Customer Analytics for Banking Campaigns
-
-An end-to-end predictive analytics project that applies machine learning to identify customers most likely to subscribe to term deposits. The project includes data preparation, exploratory analysis, feature engineering, model development, evaluation, and actionable business recommendations.
-
-####  Skills Demonstrated
-- Predictive Analytics
-- Machine Learning
-- Classification Modeling
-- Feature Engineering
-- Model Evaluation
-- Business Recommendations
+#### 2. Predictive Customer Analytics for Banking Campaigns
 
 **Tools:**
 R • Tidymodels • Quarto • ggplot2 • Machine Learning
 
 🔗 **Repository:** [Predictive Customer Analytics for Banking Campaigns](https://github.com/OluwatoyinKAlli/Predictive-Banking-Analytics)
-
-
----
---
-
-## 🌍 Geospatial Analytics
-
-Climate Risk Assessment
-
----
-
-## 🚀 AI & Project Delivery
-
-AI-Enabled Analytics Project Delivery Framework
 
 
 # Certifications
